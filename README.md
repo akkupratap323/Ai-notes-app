@@ -1,5 +1,7 @@
 Mini AI-Powered Notes App - README
 
+Live demo - https://ai-notes-app-jade.vercel.app/
+
 ![ai notes screenshot](https://github.com/user-attachments/assets/f6eb0879-c7ab-4ff2-9d69-bb1d59ffaf66)
 
 
@@ -34,7 +36,7 @@ Backend:
 
 Supabase (Auth & Database)
 
-DeepSeek AI API
+gemini AI API
 
 State Management:
 
@@ -52,7 +54,7 @@ npm or yarn
 
 Supabase account
 
-DeepSeek API key (free tier available)
+Gemini API key (free tier available)
 
 Installation
 Clone the repository:
@@ -105,17 +107,18 @@ State Management: React Query handles all data fetching, caching, and synchroniz
 UI Components: Built with Shadcn UI for a consistent, accessible design system.
 
 Screenshots
-*(Include 2-3 screenshots here with captions)*
+
+![login screen ai notes app](https://github.com/user-attachments/assets/61d3e29f-a733-4f09-ab9c-89f046bac67b)
+
+
 Login Screen
 Modern authentication interface
 
 Notes Dashboard
 Clean notes dashboard with AI summarization
+![main screen ai notes app](https://github.com/user-attachments/assets/641cdf1b-5087-47dc-8948-8af68e3fc5ea)
 
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
 
 Built with ❤️ by Aditya Pratap singh  
